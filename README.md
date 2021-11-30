@@ -2,4 +2,12 @@
 
 **Purpose**
 
-The hackathons aim to harness the resources, skills, and knowledge found in the HPC community in an effort to provide applied exposure towards the conference host city local students of 2-4 year post-secondary educational institutions. These issues can range from societal to scientific, utilizing available subject area specialists. In short, the hackathon will provide HPC skills and training while targeting problems that directly affect the participants. The hackathon is being planned from the outset as a virtual event.
+The hackathons aim to harness the resources, skills, and knowledge found in the High-Performance Computing (HPC) community in an effort to provide applied exposure for students of 2-4 year post-secondary educational institutions. The issues addressed range from societal to scientific while utilizing the knowledge and skills available from subject area specialists. In short, the hackathons provide a method to deliver HPC skills and training with applied use while targeting problems that directly affect the participants. 
+
+**Communication Methods**
+
+* [Website](http://hackhpc.org/)
+* [Email](schack@hackhcp.org)
+* [YouTube](https://www.youtube.com/channel/UCESkfjHWsERvFpJgPmWXRSA)
+* [Twitter](https://twitter.com/ccloudhack)
+* [Discord](https://discord.gg/rSXasYKDwE) 
