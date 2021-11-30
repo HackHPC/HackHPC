@@ -1,4 +1,4 @@
-#HackHPC Event Pages
+# HackHPC Event Pages
 
 **Purpose**
 
