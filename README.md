@@ -11,3 +11,14 @@ The hackathons aim to harness the resources, skills, and knowledge found in the 
 * [YouTube](https://www.youtube.com/channel/UCESkfjHWsERvFpJgPmWXRSA)
 * [Twitter](https://twitter.com/ccloudhack)
 * [Discord](https://discord.gg/rSXasYKDwE) 
+
+
+**Organizers Contact Information
+
+| Name | Affiliation | Contact Information | Social Media
+|-----------------------|--------------|----------------------------|----------------------------|
+| Alex Nolte| [University of Tartu]( http://www.ut.ee/en)| [alexander.nolte@ut.ee](mailto:alexander.nolte@ut.ee?subject=[HackHPC-PEARC20]) | [![LinkedIn](logos/linkedinicon.jpeg)]( https://www.linkedin.com/in/alexandernolte/)[![Twitter](logos/twittericon.png)](https://twitter.com/alexander_nolte)[![Github](logos/githubicon.png)](https://alexandernolte.github.io/)|
+| Amy Cannon| [Omnibond]( http://www.omnibond.com/)| [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](logos/linkedinicon.jpeg)]( https://www.linkedin.com/in/amy-cannon-46230b31/)[![Twitter](logos/twittericon.png)](https://twitter.com/amy__cannon) |
+| Boyd Wilson| [Omnibond]( http://www.omnibond.com/)| [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](logos/linkedinicon.jpeg)]( https://www.linkedin.com/in/boydwilson/)[![Twitter](logos/twittericon.png)](https://twitter.com/boydwilson)[![Github](logos/githubicon.png)](https://github.com/omnibond) |
+| Je'aime Powell | [TACC](http://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[HackHPC-PEARC20]) | [![LinkedIn](logos/linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/)[![Twitter](logos/twittericon.png)](https://twitter.com/jeaimehp)[![Github](logos/githubicon.png)](https://github.com/jeaimehp) |
+| Linda Hayden | [ECSU](http://nia.ecsu.edu/) | [haydenl@mindspring.com](mailto:haydenl@mindspring.com?subject=[HackHPC-PEARC20]) | [![LinkedIn](logos/linkedinicon.jpeg)]( https://www.linkedin.com/in/linda-hayden-5a8b424/)[![Twitter](logos/twittericon.png)](https://twitter.com/lhaydenecsu)|
